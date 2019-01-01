@@ -7,3 +7,4 @@ function getDateTime(){
     let currentDate = now;
     return currentDate;
 }
+console.log(getDateTime());
